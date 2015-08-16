@@ -1,0 +1,212 @@
+- U: >
+    The Computer Science Department won a prize at the robot Olympics
+    in 1990 with a robot that alleged it was under neural network and
+    computer control, but in fact had only basic collision detection
+    plus some random wiggles programmed in. The random wiggles just
+    happened to take it round the obstacle course by pure chance. In
+    the same Olympics a 100 year automata from the local museum won
+    the archery contest.
+
+- Tb: >
+    A computer science head of department once nearly lost his head
+    when, just seconds after having his picture taken next to a large
+    Winchester cabinet, something inside broke, the disk slipped loose
+    from its housing, sliced through its cabinet and buried itself in
+    the adjacent wall.
+
+- T: >
+    One of the two original buildings was built just to house the
+    first computer. When it was delivered, the makers took the fuses
+    away until the bill was paid.
+
+  ref: computation
+
+- U: >
+    Apparently in the late 70's/early 80's, in the infancy of the
+    internet a certain group of computer scientists managed to order a
+    rocket launcher via the net. Apparently from Columbia. Allegedly
+    the only way they found out was when the invoice arrived at the
+    comp sci block.
+
+- Tb: >
+    When compsci got their new HLH Orion computers in '88, there was a
+    couple of serious bugs in the system. The first meant that
+    terminals would `die' when you logged out, and couldn't be used to
+    log back in; vuft would fill up with turned-over keyboards
+    indicating the dead terminal. forsyth produced a staff-owned
+    setuid root program called clearline that mucked around in the
+    kernel to clear up this problem. The suns had passwordless login
+    called ``console'' that had staff privs, so it was possible to set
+    up a sgid-staff shell purely for running clearline and making
+    things usable again.
+
+- Tb: >
+    The other, much more interesting bug was that at random, processes
+    would flip into root. this lead to numerous people with files they
+    couldn't write to, etc., and, after one user noticed her prompt
+    had changed to a funny # character, a long battle between numerous
+    students to hide root hacks that they could reinvoke, but that
+    other students couldn't. Forsyth found this out, and cleaned up
+    almost all the hacks. one remained in until the orions were
+    dumped. it didn't fire until most of the students responsible had
+    left.
+
+- T: >
+    A ``.paranoia virus'' was put into /lib/crt0.o, the file that gets
+    linked into every compiled C program, and is the code that
+    actually calls main(). it wasn't a virus actually - more of a
+    trojan.
+
+    It checked the current process id (using a direct system call
+    trap, to avoid invoking any other library functions); if (pid %
+    256) == 42 then it would create a file in the current directory
+    called ``.paranoia'' with no contents and no permissions to do
+    anything on it. The character codes for the string ``.paranoia''
+    were hidden in a series of adds and shifts in the code adding to
+    the difficulty of the detection.
+
+    This meant that from the moment it was installed, newly compiled
+    programs occasionally hatched a .paranoia file... including for
+    example ``glide'', the functional language interpreter provided by
+    the department, and eventually most of the compilers.
+
+    The trojan even managed to propagate from Orion2 to Orion1.
+
+- Tb: >
+    The way into the student machines in those days was quite
+    elegant. After popping root on the Orion, one student made
+    /etc/rc.local writable on one of the disc-less student sun
+    workstations. So, if anything needed ``doing'', the extra commands
+    were written into that file, which runs as root on bootup, and a
+    command inserted to copy the original version of the file back
+    over it -- hence, nobody ever logged in as root.
+
+    Since there was no change to the content of any of the system
+    files, only a one-bit change in the permissions on one file, this
+    remained in place for ages and ages -- a very thorough check of
+    the boot partition on the Suns eventually revealed what had
+    happened
+
+- Tb: >
+    The 1992 intake of Compsci undergraduates were affectionately
+    known by one of the lecturers as ``The biggest bunch of tossers
+    they've ever been''.
+
+- Tb: >
+    To commemorate this, the students in question produced a ``2nd
+    year 1993-1994 exam results mug''. The front of the mug says
+    ``University of York 2nd Year Computer Science 1993/4''. The bit
+    opposite the handle has a trophy with the old ``University of
+    York'' logo on it. The back says the following: ``The worst year
+    group in the history of computing''.
+
+- Tb: >
+    For most of 1986/7 the more net-minded students used to read
+    Usenet by (ab)using a guest account on one of the staff Vaxes. The
+    username was guest, the password was (unsurprisingly)
+    visitor.... At least one student was a member of the Clayton
+    E. Cramer For President campaign. (CEC was one of the best of the
+    early flamers)
+
+- Tb: >
+    The 1987/8 intake was almost on a par with the 1992/3 one --
+    including the two students who basically lost Computer Science
+    students email and news access for some time -- largely due to
+    huge bounces. During this period, CS undergrads used a number of
+    sly means to keep a net presence -- for some reason the Sun
+    workstations still had mail and news, and many CS students became
+    active ``computer reps'' for societies and used CompServ
+    facilities.... SOCSnnn accounts were something of a hotbed of
+    illicit compsci networking.
+
+- T: >
+    In 1993, the compsci newsgroups were dominated by discussions on
+    wasting system resources. These discussions wasted a lot of system
+    resources.
+
+- F: "Tony Fisher used to be a member of ZZ Top."
+
+- T: >
+    In 1994, a lecturer set an exam question the Teaching Quality
+    Assessment inspectors declared to be `tasteless'. The lecturer
+    decided to keep the question in the exam anyway. The question was
+    about a theme park called something like `Oop North'. You can buy
+    lard in the souvenir shops. The idea was to categorise everything
+    into a relational database.
+
+- T: >
+    A fly lands on the surface of a slide-projector and is projected
+    to the screen. The lecturer says something about there being a bug
+    in the program.
+
+    Andrei Ellman once entered a computer science lecture mid-lecture
+    and gave the lecturer a slice of toast. (However, Andrei had
+    discussed this with the lecturer beforehand.)
+
+    In 1994, head of Computer Science department gives a talk to tell
+    students to turn up on time, since Teaching Quality inspectors are
+    in. Several students walk in as he finishes.
+
+    Teaching is rated `outstanding' in 1994. One lecturer is called on
+    his portable phone mid-lecture to be told he had been rated
+    outstanding. Another, using hand-puppets to liven up the lecture
+    makes the puppets say ``yes, the TQA inspectors were nasty''. That
+    night, the lecturers head off to the Charles for a pissup.
+
+- Tb: >
+    A lecturer once caught someone asleep in one of the front rows of
+    that lecture. He hit them on the head with his pointer.
+
+- U: >
+    A lecturer came to the lecture to find two slide projectors. He
+    went wild and attacked one (or both) of them.
+
+- Tb: >
+    One lecturer deleted MSDOS.SYS and IO.SYS from his new PC ``to
+    save space'', with the expected lack of functionality. How he
+    managed to unhide them and remove the read-only bit from them is
+    debatable, given that he lacked the DOS knowledge to appreciate
+    that they were important files...
+
+- Tb: >
+    Another senior computer scientist left his first PC, a 386/DX33,
+    running at 8MHz for about a year, as he wasn't sure whether
+    pressing the TURBO button would dangerously overclock the
+    processor
+
+- Tb: >
+    Computer Science was the first department to have local
+    newsgroups. This was before CompServ discovered Usenet News. This
+    is why the york.cs.* groups were originally called york.*. The
+    electronics dept. also had a newsfeed back then, but they didn't
+    seem to have local newsgroups.
+
+- T: >
+    The newsgroup york.student (now york.cs.student) was originally
+    created in 1991/1992 to help relieve york.second of it's
+    `drivel'. The group york.test was also used as a regular `drivel'
+    group.
+
+- T: >
+    Back in the days when V/058 was full of terminals, a bottle of
+    Newcastle Brown was spilled into the keyboard of one. It no longer
+    worked. In order to hide the evidence, those present carried out
+    the following tasks: Swapping the physical location of a goodly
+    number of the terminals so that any mapping from serial no. to tty
+    line was N&ampV. Swapping keyboards around so the keyboards no
+    longer matched the vdus (same reason). Breaking root (not
+    difficult on an HLH Orion 1/05) to wipe out wtmp and all other
+    system accounting logs so nobody could see who was logged in at
+    the time.
+
+- Tb: >
+    Quote from Chris Reece when the computers in VUFT were down: ``Oh
+    dear, the computers have stopped working... Looks like I'll have
+    to get a life.''
+
+- T: >
+    The Compsci department, as of 1992 have offered a course called
+    ITBML (Short for Information Technology, Business Managment, and
+    Language). Because ``Information Technology, Business Managment,
+    and Language'' and ``Eye tee bee em el'' are both a bit of a
+    mouthful, ``Itbummel'' is used instead.

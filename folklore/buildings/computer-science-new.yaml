@@ -1,0 +1,7 @@
+- T: >
+    If you look closely at the weather mast, you will see some logic
+    gates cut out of the bottom part.
+
+- T: >
+    The direction pointers also have Pi/2, Pi, 3Pi/2 and 2Pi instead
+    of W, S, E, N.

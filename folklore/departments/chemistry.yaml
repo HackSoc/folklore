@@ -1,0 +1,34 @@
+- T: "Chemistry lecturer poisons wife."
+
+  ref: murder
+
+- T: >
+    There was once (1980) a large-ish fire in the Chemistry
+    Department.
+
+  ref: morefire
+
+- Fb: >
+    The fire started when a polymerisation reaction went to completion
+    unexpectedly rapidly in the middle of the night.
+
+  sub:
+    - Tb: >
+      Was caused by an electrical fault in a calculator power supply.
+
+- U: >
+    The Fire Brigade, faced with large cupboards full of smouldering
+    and potentially nasty chemicals with the labels burned off, simply
+    hauled the lot off in to a big heap in the playing fields behind
+    the Dept (now the Science Park) and sprayed water on them from a
+    cautious distance until they stopped fizzing.
+
+- Tb: >
+    A large part of A-block was destroyed. Afterwards, experimental
+    work was restricted to the other three blocks.
+
+- Tb: >
+    When experiments with thiols (chemicals akin to those used to
+    scent natural gas) were being conducted in the Department, the Gas
+    Board were swamped with calls from Heslington and Badger Hill
+    residents about gas escapes.

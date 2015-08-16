@@ -1,0 +1,81 @@
+---
+title: Tower hacked!
+related:
+- porn
+- internic
+- vuft
+---
+
+Dateline: Bank Holiday Monday, 11th May 1997, York University.
+
+The story that follows is true.
+
+Well, probably.
+
+> Twas a dark yet not so stormy evening over campus. All appeared
+> quiet as your narrator slowly made his way to the Vanbrugh compsci
+> room with the intention of checking his email before the long night
+> ahead. As I sat down I noticed a strange atmosphere in the room yet
+> took little notice. Several spods are staring at their screens in
+> dismay. I attempt to login. Incorrect. I try agian. Same
+> again. What's going on? A bug? Mark's crashed tower again?
+> Exclamations come out across the room. Something's afoot!
+>
+> A sudden noise across the room makes all turn. "Someone's hacked
+> into tower" comes the cry. No! Confusion reigns. Spods franticly
+> thump keyboards. Others look bemused. A cry. Yes, the man in the
+> corner? "It's coming from somewhere with the initials b.y. Hold on;
+> Minsk!!!! In Byelorussia!" What? This is the start of much frenzied
+> activity. Confused talk requests are exchanged with the
+> spod-pit. Computer Services are uncontactable, its 6pm on a Bank
+> Holiday. Runners are dispached to various porters, only to return
+> bearing messages of shaken heads. The hacker, it slowly emerges, has
+> disabled access to tower to all except himself, and has become
+> root. What dastardly deeds is he committing.
+>
+> Over the next few hours an heroic struggle takes place, and I was
+> lucky enough to witness it. V058 becomes a hive of activity,
+> conferences are had around computers, voices struggle to be
+> heard. Someone in Derwent leaves to get some computing persons phone
+> number from his house, never to be heard from again. To all intents
+> and purposes, V058 has become the operations centre where our
+> saviours struggled for hours against the might of the East. Paths
+> are gradually uncovered, though progress is slow, with many a dead
+> end being uncovered. It would be unfair to name one as the leader
+> for all here today made enormous sacrifices and everyone gave their
+> all.
+>
+> Suddenly a ray of hope emerges. A lonely compsci in Wenty has found
+> the way in. Advice and suggestions floods across the wires. This
+> brave individual now seems to be gaining. He has to shut down
+> tower. He gains control and begins the procedure, painstakingly
+> slowly it seems to the crowd of spods and onlookers in the
+> opperations centre. The message goes out warning all of the
+> impending shut down. Tension is mounting. "Shut it down" is muttered
+> at the screen by many a spod. The excitement builds. Can he do it?
+> Suddenly a new message arrives. "F##k You". All stare at eachother
+> in amazement. Was this the invader or someone else completely? If so
+> who. We still do not know.
+>
+> Then, without warning the system goes down. Afraid of loosing face
+> or having finished what he came for our visitor, knowing he was into
+> seconds left, shut it down himself. And left. Or did he? Still too
+> early to breath easily, the Wenty hero arrives at vuft, and the
+> checking begins. What did the invader do. How? And is he still
+> there? Vigorous checks are made, the valiant few still refusing to
+> give up on their vigil 'till all that could be done has been.
+>
+> And so the dust settles. Many were effected, at the time of writing,
+> Tower is still down as a precuation. Questions must now be answered,
+> many I'm sure will be directed to computer services, why are there
+> so many gaps and inadequate protection? Why is there nobody to
+> contact in a situation like this? Yes, it could have waited 'till
+> morning. Who knows, by then how much damage could have been
+> caused. How much was indeed caused, if any? Yet this should not
+> detract from those who worked tirelessly over this crisis, who I
+> would now like to pay tribute to. Though many of them I'm sure would
+> prefer to remain nameless to the general public, they know who they
+> are and they should feel proud of themselves tonight. Spods of V058,
+> Derwent, and everywhere else they were, I salute you.
+
+Mad Irish mir100@york.ac.uk
